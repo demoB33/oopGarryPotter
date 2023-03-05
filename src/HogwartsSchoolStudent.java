@@ -60,7 +60,6 @@ public class HogwartsSchoolStudent {
     public void print(){
         System.out.println(this);
     }
-
     @Override
     public String toString() {
         return "Студент " +
