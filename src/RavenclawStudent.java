@@ -73,7 +73,6 @@ public class RavenclawStudent extends HogwartsSchoolStudent {
             System.out.println("Когтевранцы равны : " + ability1 + " = " + ability2);
         }
     }
-
     @Override
     public String toString() {
         return super.toString() +

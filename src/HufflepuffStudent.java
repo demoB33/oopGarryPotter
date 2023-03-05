@@ -62,7 +62,6 @@ public class HufflepuffStudent extends HogwartsSchoolStudent{
             System.out.println("Пуффендурцы равны : " + ability1 + " = " + ability2);
         }
     }
-
     @Override
     public String toString() {
         return super.toString() +
